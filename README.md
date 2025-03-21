@@ -23,4 +23,8 @@ Statistics Being Tracked :
 Kaggle Dataset - The same data but on Kaggle.
 ( https://www.kaggle.com/datasets/justin2028/us-debt-tracker )
 
+Preview of the Final Output
+
+![Image](https://github.com/user-attachments/assets/2efc9180-a3c2-4b43-9e30-147dac465f38)
+
 
